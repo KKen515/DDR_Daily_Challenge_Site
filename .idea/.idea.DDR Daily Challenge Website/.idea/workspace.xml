@@ -9,14 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fe63266-8bd4-46de-a3bd-103054258c6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DDR Daily Challenge Website/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Controllers/ScoreController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Data/IScoreRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Data/ScoreRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Models/Score.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Views/Score/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Views/Score/UpdateScore.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDR_Daily_Challenge_Website/Views/Score/ViewScore.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DDR Daily Challenge Website/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DDR Daily Challenge Website/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.DDR Daily Challenge Website: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.DDR Daily Challenge Website: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DDR Daily Challenge Website: http">
     <configuration name="DDR Daily Challenge Website: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DDR_Daily_Challenge_Website/DDR_Daily_Challenge_Website.csproj" />
@@ -91,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773117585553</updated>
       <workItem from="1773117586866" duration="171000" />
-      <workItem from="1773117770842" duration="29312000" />
+      <workItem from="1773117770842" duration="30697000" />
     </task>
     <servers />
   </component>
