@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<audio autoplay loop src="audio/DDR_audio.mp3"></audio>
+<div class="video-background-holder">
+    <video autoplay loop muted playsinline poster="/images/video-fallback.jpg">
+        <source src="/videos/DDR.mp4" type="video/mp4">
+        <!-- Fallback text for browsers that do not support the video tag -->
+        Your browser does not support the video tag.
+    </video>
+    <!-- Content overlay can go here -->
+    <div class="content-overlay">
+        <img src="~/images/DDR_Start.png" alt="DDR_Start" class="center-image" class="box-shadow" style="border: 7px solid #9fd8dc;" >
+    </div>
+</div>

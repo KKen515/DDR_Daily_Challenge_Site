@@ -1,0 +1,20 @@
+﻿@model Score
+
+<h3>Update @Model.PlayerName's Score</h3>
+
+@using (Html.BeginForm("UpdateScoreToDatabase", "Score", "Post"))
+{
+    <input asp-for="ScoresID" type="hidden" value="@Model.ScoresID" />
+
+    <label asp-for="PlayerName" class="control-label">Name</label>
+    <input type="text" name="PlayerName" class="form-control" value="@Model.PlayerName" />
+
+    <label asp-for="PlayerScore" class="control-label">Score</label>    
+    <input type="number" step="10" name="PlayerScore" class="form-control" value="@Model.PlayerScore" />
+    
+    <label asp-for="Letter" class="control-label">Letter Grade</label>
+    <input type="text" name="Letter" class="form-control" value="@Model.Letter" />
+
+    <input type="submit" value="Update Score" class="btn btn-primary" />
+}
+

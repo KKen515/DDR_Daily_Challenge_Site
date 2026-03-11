@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Score>
+
+<audio autoplay loop src="audio/DDR_Audio_2.mp3"></audio>
+
+<h2>Daily Stepchart</h2>
+<table class="table">
+    <tr>
+        <th>SongID</th>
+        <th>Name</th>
+        <th>Score</th>
+        <th>Grade</th>
+    </tr>
+
+    @foreach (var score in @Model)
+    {
+        <tr>
+            <td><a href=/Score/ViewScore/@score.ScoresID>@score.ScoresID</a></td>
+            <td>@score.PlayerName</td>
+            <td>@score.PlayerScore</td>
+            <td>@score.Letter</td>
+        </tr>
+    }
+
+</table>

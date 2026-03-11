@@ -1,0 +1,20 @@
+﻿@model Score
+
+<h3>@Model.PlayerName's Information</h3>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Score</th>
+        <th>Grade</th>
+    </tr>
+    <tr>
+        <td>@Model.PlayerName</td>
+        <td>@Model.PlayerScore</td>
+        <td>@Model.Letter</td>
+    </tr>
+</table>
+
+<div style="display: block">
+    <a href="/Score/UpdateScore/@Model.ScoresID">Update Your Score</a>
+</div>
