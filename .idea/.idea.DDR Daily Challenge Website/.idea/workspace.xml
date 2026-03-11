@@ -8,7 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fe63266-8bd4-46de-a3bd-103054258c6e" name="Changes" comment="" />
+    <list default="true" id="4fe63266-8bd4-46de-a3bd-103054258c6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DDR_Database_Script.sql" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773117585553</updated>
       <workItem from="1773117586866" duration="171000" />
-      <workItem from="1773117770842" duration="31161000" />
+      <workItem from="1773117770842" duration="31622000" />
     </task>
     <servers />
   </component>
